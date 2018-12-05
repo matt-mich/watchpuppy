@@ -1,0 +1,3 @@
+./rules/checkPortScanning
+./actions/log "PORT SCAN IN PROGRESS!!!!"
+2

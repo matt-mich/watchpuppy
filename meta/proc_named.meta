@@ -1,0 +1,6 @@
+What is the name of the process you'd like to monitor?
+STRING
+What is the highest percent CPU usage you'll allow for this/these process(es) (1-100)?
+INT
+0
+100

@@ -1,0 +1,6 @@
+Please enter the name of the file you wish to watch.
+STRING
+Please enter the maxiumum size in bytes that you allow.
+INT
+0
+1000000000

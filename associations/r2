@@ -1,0 +1,3 @@
+./rules/proc_named "proc_test" 90
+./actions/kill "proc_test"
+5

@@ -1,0 +1,1 @@
+#include <stdio.h>#include <stdlib.h>int main(){    printf("Enter the path you want to check\n");    char path[10000]={'\0'};    scanf("%s",path);    char command[10000]={'\0'};    sprintf(command,"test -e %s && echo file or director exist || echo file or director not exist",path);    system(command);    return 0;}

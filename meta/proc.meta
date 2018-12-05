@@ -1,0 +1,9 @@
+Would you like to...\n Monitor total CPU utilization (c) \n Monitor the CPU time of a process (t) \n Monitor CPU Utilization of a process name? (n)
+CHAR
+2
+u
+t
+What is the highest percent CPU usage you'll allow for this/these process(es) (1-100)?
+INT
+0
+100
